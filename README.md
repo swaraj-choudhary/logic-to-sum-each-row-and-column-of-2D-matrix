@@ -1,6 +1,10 @@
 # logic-to-sum-each-row-and-column-of-2D-matrix
 /*logic to sum each row and column of 2D matrix and logic would be clear to everyone.*/
 
+
+
+
+
 #include<stdio.h>
 #define size 3
 int main()
